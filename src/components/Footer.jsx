@@ -79,9 +79,9 @@ const Footer = () => {
                 <input 
                   type="email" 
                   placeholder="Your email" 
-                  className="flex-1 px-3 py-2 bg-gray-800 text-white placeholder-gray-400 focus:outline-none focus:bg-gray-700 text-sm sm:text-base"
+                  className="flex-1 px-3 py-2 bg-gray-800 text-white placeholder-gray-400 focus:outline-none focus:bg-gray-700 text-sm border border-gray-700 focus:border-gray-600"
                 />
-                <button className="bg-white text-black px-3 sm:px-4 py-2 font-medium hover:bg-gray-200 transition-colors duration-300 text-xs sm:text-sm">
+                <button className="w-full sm:w-auto bg-white text-black px-3 sm:px-4 py-2 font-medium hover:bg-gray-200 transition-colors duration-300 text-xs sm:text-sm uppercase tracking-wide">
                   SUBSCRIBE
                 </button>
               </div>
